@@ -14,7 +14,7 @@ role: MSc Student of Signal Processing and Communications
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: The University of Edinburgh
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
